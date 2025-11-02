@@ -1,0 +1,2 @@
+Introduction of SQL Server:
+Microsoft SQL Server ek Relational Database Management System (RDBMS) hai jo Microsoft Corporation ne 1989 me develop kiya tha. Ye system data ko store, manage, aur retrieve karne ke liye use hota hai SQL (Structured Query Language) ke zariye. SQL Server secure aur scalable environment provide karta hai jisme large amount of data handle kiya ja sakta hai. Ye business aur organizations me data management, reporting, aur analysis ke liye bohot use hota hai.
